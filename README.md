@@ -1,2 +1,6 @@
 # TIP-Group-1
-Pentration testing 
+data science
+install anaconda 
+perform data cleaning provide data set 
+
+
